@@ -1,0 +1,70 @@
+  {
+    "user_id": "af00-bc14-1245",
+    "amount": 28000,
+    "currency": "USD",
+    "ip": "212.10.114.18",
+
+    "items": [
+      {
+        "item_id": "cell_400200",
+        "name": "Cellphone 1450",
+        "price": 25000,
+        "quantity": 1,
+        "categories": [
+          ["Electronics & Photo", "Mobile Phones"],
+          ["Entertainment & Multimedia"]
+        ],
+        "is_promotion": true,
+        "user_defined": {
+          "color": "sarcoline"
+        }
+      }
+    ],
+
+    "transaction_type": "sale",
+    "payment_method": "card",
+    "card_cvv_present": true,
+
+    "user_email": "howey.1975@gmail.com",
+    "user_fullname": "Hugh Howey",
+    "user_created_at": 1367337011244,
+    "user_gender": "M",
+    "user_phone": "0016502608924",
+
+    "user_address_line1": "1875 South Grant Street",
+    "user_address_line2": "Suite 710",
+    "user_zip": "94402",
+    "user_city": "San Mateo",
+    "user_region": "CA",
+    "user_country": "US",
+
+    "billing_phone": "0016502608924",
+    "billing_address_line1": "1875 South Grant Street",
+    "billing_address_line2": "Suite 710",
+    "billing_zip": "94402",
+    "billing_city": "San Mateo",
+    "billing_region": "CA",
+    "billing_country": "US",
+
+    "merchant_id": "9005-5568-2113",
+    "merchant_mcc": "7299",
+    "merchant_created_at": 1381760524000,
+    "merchant_email": "info@yourbusiness.com",
+    "merchant_country": "US",
+
+    "card_hash": "a1ccb...5f7a8",
+    "card_fullname": "Hugh Howey",
+    "card_exp": "06/17",
+    "card_country": "US",
+    "card_bin": "442742",
+    "card_last4": "1011",
+
+    "shipping_phone": "00442032867590",
+    "shipping_fullname": "Hugh Howey",
+    "shipping_address_line1": "6 University Way",
+    "shipping_address_line2": "APT 22",
+    "shipping_zip": "E16 2RD",
+    "shipping_city": "London",
+    "shipping_region": "London",
+    "shipping_country": "GB"
+  }

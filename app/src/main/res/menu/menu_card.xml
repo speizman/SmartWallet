@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".CardActivity">
+    <item android:id="@+id/action_settings" android:title="Kill Cards" android:visible="true"
+        app:showAsAction="always" android:icon="@android:drawable/ic_menu_search" android:orderInCategory="1"  />
+    <item android:id="@+id/turn_off" android:title="Turn Off" android:visible="true"
+        app:showAsAction="always" android:icon="@android:drawable/ic_menu_search" android:orderInCategory="2"  />
+</menu>

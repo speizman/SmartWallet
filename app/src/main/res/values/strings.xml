@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Locket</string>
+    <string name="hello_world">You used to call me on my cell phone\nLate night when you need my love</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_card">Add Card</string>
+
+</resources>
